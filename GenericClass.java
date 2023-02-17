@@ -2,6 +2,7 @@
 // delete module.java from src
 // create package in src
 // create class
+// Class name should be same
 
 package com.sss;
 class Demo<T>
