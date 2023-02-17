@@ -1,3 +1,9 @@
+// Create a java project
+// delete module.java from src
+// create package in src
+// create class
+// Class name should be same
+
 package com.sss;
 public class Generic {
 public static void main (String[] args)
